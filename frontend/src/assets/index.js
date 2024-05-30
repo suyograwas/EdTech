@@ -8,3 +8,5 @@ export { default as Know_your_progress } from "./Images/Know_your_progress.svg";
 export { default as Compare_with_others } from "./Images/Compare_with_others.svg";
 export { default as Plan_your_lessons } from "./Images/Plan_your_lessons.svg";
 export { default as Instructor } from "./Images/Instructor.png";
+
+export { default as Logo } from "./Logo/Logo-Full-Light.png";
